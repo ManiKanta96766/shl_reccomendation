@@ -3,6 +3,7 @@ import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
+import os
 
 app = Flask(__name__)
 model = SentenceTransformer("all-MiniLM-L6-v2")
