@@ -1,0 +1,3848 @@
+[
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Basic Statistics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Chemical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Computer Science (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Econometrics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/economics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Economics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/food-science-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Food Science (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'HiPo Assessment Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'HiPo Assessment Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Marketing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'Verify - Inductive Reasoning (2014)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'Verify - Verbal Ability - Next Generation' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "D",
+      "P"
+    ],
+    "description": "The '360\u00b0 Multi-Rater Feedback System (MFS)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Adobe Experience Manager (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Adobe Photoshop CC' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Aeronautical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Aerospace Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Agile Software Development' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Agile Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'AI Skills' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Amazon Web Services (AWS) Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Android Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Angular 6 (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'AngularJS (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Apache Hadoop (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Adobe Experience Manager (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Adobe Photoshop CC' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Aeronautical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Aerospace Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Agile Software Development' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Agile Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'AI Skills' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Amazon Web Services (AWS) Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Android Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Angular 6 (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'AngularJS (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Apache Hadoop (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Automata Data Science (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Automata Data Science Pro (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Automata Front End' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Automata Pro (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Automata Selenium' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Automation Anywhere RPA Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Automotive Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Basic Biology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S",
+      "K"
+    ],
+    "description": "The 'Basic Computer Literacy (Windows 10) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Basic Statistics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Biochemistry (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Biotech Lab Techniques (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'BizTalk (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Business Communication (adaptive)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communications/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Business Communications' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'C Programming (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'C# Programming (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'C++ Programming (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Cardiology and Diabetes Management (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Ceramic Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Chemical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Cisco AppDynamics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Civil Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Cloud Computing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'BizTalk (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Business Communication (adaptive)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communications/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Business Communications' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'C Programming (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'C# Programming (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'C++ Programming (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Cardiology and Diabetes Management (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Ceramic Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Chemical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Cisco AppDynamics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Civil Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Cloud Computing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Data Entry (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Entry Alphanumeric Split Screen - US' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Entry Numeric Split Screen - US' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Entry Ten Key Split Screen' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Science (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Warehousing Concepts' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Dependability and Safety Instrument (DSI)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Dermatology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Desktop Support (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Digital Advertising (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Digital Readiness Development Report - IC' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Digital Readiness Development Report - Manager' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Data Entry (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Entry Alphanumeric Split Screen - US' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Entry Numeric Split Screen - US' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Entry Ten Key Split Screen' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Science (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Data Warehousing Concepts' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Dependability and Safety Instrument (DSI)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Dermatology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Desktop Support (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Digital Advertising (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Digital Readiness Development Report - IC' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Digital Readiness Development Report - Manager' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Enterprise Java Beans (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Enterprise Leadership Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Enterprise Leadership Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Cashier Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "description": "The 'Entry Level Customer Serv-Retail & Contact Center' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Customer Service (General) Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Hotel Front Desk Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Sales Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "description": "The 'Entry Level Technical Support Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'ETL Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Executive Scenarios' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Executive Scenarios Narrative Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Enterprise Java Beans (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Enterprise Leadership Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Enterprise Leadership Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Cashier Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "description": "The 'Entry Level Customer Serv-Retail & Contact Center' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Customer Service (General) Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Hotel Front Desk Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Sales Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "description": "The 'Entry Level Technical Support Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'ETL Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Executive Scenarios' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Executive Scenarios Narrative Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Enterprise Java Beans (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Enterprise Leadership Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Enterprise Leadership Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Cashier Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "description": "The 'Entry Level Customer Serv-Retail & Contact Center' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Customer Service (General) Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Hotel Front Desk Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Entry Level Sales Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "C"
+    ],
+    "description": "The 'Entry Level Technical Support Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'ETL Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Executive Scenarios' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Executive Scenarios Narrative Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'HiPo Assessment Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'HiPo Assessment Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C"
+    ],
+    "description": "The 'HiPo Unlocking Potential Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Housekeeping (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'HTML/CSS (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'HTML5 (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Human Resources (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'IBM DataStage (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'IBM Sterling Order Management System (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Industrial Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Informatica (Architecture) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Informatica (Developer) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'HiPo Assessment Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'HiPo Assessment Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C"
+    ],
+    "description": "The 'HiPo Unlocking Potential Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Housekeeping (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'HTML/CSS (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'HTML5 (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Human Resources (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'IBM DataStage (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'IBM Sterling Order Management System (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Industrial Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Informatica (Architecture) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Informatica (Developer) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Jenkins (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Job Control Language (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jquery-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'jQuery (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Kubernetes (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Linux Administration (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Linux Operating System' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Linux Programming (General)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Load Runner (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Management Scenarios' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Managerial Scenarios Candidate Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Managerial Scenarios Narrative Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B"
+    ],
+    "description": "The 'Managerial Scenarios Profile Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Manual Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufac. & Indust. - Mechanical & Vigilance 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Manufac. & Indust. - Safety & Dependability 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/essential-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Essential Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Mechanical Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vigilance-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Vigilance Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Marketing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/maven-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Maven (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Mechanical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechatronics-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Mechatronics Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Medical Terminology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Metallurgical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Manual Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufac. & Indust. - Mechanical & Vigilance 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Manufac. & Indust. - Safety & Dependability 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/essential-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Essential Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Mechanical Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vigilance-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Vigilance Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Marketing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/maven-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Maven (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Mechanical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechatronics-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Mechatronics Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Medical Terminology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Metallurgical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Manual Testing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufac. & Indust. - Mechanical & Vigilance 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Manufac. & Indust. - Safety & Dependability 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/essential-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Essential Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Mechanical Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vigilance-focus-8-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "P"
+    ],
+    "description": "The 'Manufacturing & Industrial - Vigilance Focus 8.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Marketing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/maven-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Maven (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Mechanical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechatronics-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Mechatronics Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Medical Terminology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Metallurgical Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-profile/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'MQ Profile' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Access (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Excel (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Office Basic Computer Literacy (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'MS Office Basic Computer Literacy (Sim) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-powerpoint-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS PowerPoint (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Word (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mulesoft-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MuleSoft Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "K",
+      "S"
+    ],
+    "description": "The 'Multitasking Ability' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-and-implementation-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Networking and Implementation (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/node-js-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Node.js (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/nursing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Nursing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-profile/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'MQ Profile' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Access (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Excel (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Office Basic Computer Literacy (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'MS Office Basic Computer Literacy (Sim) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-powerpoint-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS PowerPoint (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MS Word (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mulesoft-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'MuleSoft Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "K",
+      "S"
+    ],
+    "description": "The 'Multitasking Ability' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-and-implementation-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Networking and Implementation (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/node-js-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Node.js (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/nursing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Nursing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-profile-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Profile Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Impact Group Development Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Impact Individual Development Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-selection-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Impact Selection Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Types & Leadership Styles Profile' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Types and Leadership Styles Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ UCF Development Action Planner Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ UCF Development Action Planner Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Universal Competency Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Universal Competency Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ User and Managers Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "S"
+    ],
+    "description": "The 'OPQ User Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-profile-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Profile Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Impact Group Development Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Impact Individual Development Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-selection-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Impact Selection Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Types & Leadership Styles Profile' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Team Types and Leadership Styles Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ UCF Development Action Planner Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ UCF Development Action Planner Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Universal Competency Report 1.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ Universal Competency Report 2.0' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'OPQ User and Managers Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "S"
+    ],
+    "description": "The 'OPQ User Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmaceutical Chemistry (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmaceutical Science (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmaceutics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmacology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'PHP (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "A",
+      "P"
+    ],
+    "description": "The 'PJM Development Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "C",
+      "P"
+    ],
+    "description": "The 'PJM Selection Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Polymer Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Power Electronics and Drives (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Power System Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Prism (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Production and Industrial Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmaceutical Chemistry (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmaceutical Science (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmaceutics (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Pharmacology (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'PHP (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "A",
+      "P"
+    ],
+    "description": "The 'PJM Development Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "C",
+      "P"
+    ],
+    "description": "The 'PJM Selection Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Polymer Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Power Electronics and Drives (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Power System Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Prism (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Production and Industrial Engineering (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-participant-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C"
+    ],
+    "description": "The 'RemoteWorkQ Participant Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'RESTful Web Services (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B",
+      "K",
+      "S",
+      "A"
+    ],
+    "description": "The 'Retail Sales and Service Simulation' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reviewing-forms-us-r1/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Reviewing Forms - US (R1)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Ruby (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Ruby on Rails (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S",
+      "B"
+    ],
+    "description": "The 'Sales & Service Phone Simulation' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B",
+      "P",
+      "S"
+    ],
+    "description": "The 'Sales & Service Phone Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-interview-guide/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "P"
+    ],
+    "description": "The 'Sales Interview Guide' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-profiler-cards/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Sales Profiler Cards' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Sales Transformation 1.0 - Individual Contributor' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Sales Transformation 2.0 - Individual Contributor' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-participant-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C"
+    ],
+    "description": "The 'RemoteWorkQ Participant Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'RESTful Web Services (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B",
+      "K",
+      "S",
+      "A"
+    ],
+    "description": "The 'Retail Sales and Service Simulation' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reviewing-forms-us-r1/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Reviewing Forms - US (R1)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Ruby (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Ruby on Rails (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S",
+      "B"
+    ],
+    "description": "The 'Sales & Service Phone Simulation' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B",
+      "P",
+      "S"
+    ],
+    "description": "The 'Sales & Service Phone Solution' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-interview-guide/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P",
+      "P"
+    ],
+    "description": "The 'Sales Interview Guide' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-profiler-cards/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Sales Profiler Cards' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Sales Transformation 1.0 - Individual Contributor' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Sales Transformation 2.0 - Individual Contributor' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Search Engine Optimization (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Selenium (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Shell Scripting (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A",
+      "S"
+    ],
+    "description": "The 'SHL Verify Interactive - Inductive Reasoning' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SHL Verify Interactive \u2013 Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A",
+      "S"
+    ],
+    "description": "The 'SHL Verify Interactive \u2013 Deductive Reasoning' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A",
+      "S"
+    ],
+    "description": "The 'SHL Verify Interactive \u2013 Numerical Reasoning' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-g/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'SHL Verify Interactive G+' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'SHL Verify Interactive Numerical Calculation' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/siebel-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Siebel Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Smart Interview Live' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live-coding/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Smart Interview Live Coding' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Smart Interview On Demand' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/social-media-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Social Media (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Software Business Analysis' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sonarqube-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SonarQube (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spelling-u-s-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Spelling (U.S.) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "K"
+    ],
+    "description": "The 'Split Screen Typing Test - Form 1' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Spring (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server Analysis Services (SSAS) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server Integration Services (SSIS) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server Reporting Services (SSRS) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Statistical Analysis System (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/social-media-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Social Media (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Software Business Analysis' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sonarqube-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SonarQube (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spelling-u-s-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Spelling (U.S.) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A",
+      "K"
+    ],
+    "description": "The 'Split Screen Typing Test - Form 1' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Spring (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server Analysis Services (SSAS) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server Integration Services (SSIS) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'SQL Server Reporting Services (SSRS) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Statistical Analysis System (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Teradata Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Time Management (U.S.)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/training-development/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Training Development' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/typing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Typing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'UiPath RPA Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Universal Competency Framework Interview Guide' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Universal Competency Framework Job profiling guide' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Universal Competency Framework Profiler Cards (44)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'UNIX (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'VB.NET (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'Verify - Deductive Reasoning' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'Verify - Following Instructions' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Teradata Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Time Management (U.S.)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/training-development/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Training Development' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/typing-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'Typing (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'UiPath RPA Development (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Universal Competency Framework Interview Guide' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Universal Competency Framework Job profiling guide' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "C",
+      "P"
+    ],
+    "description": "The 'Universal Competency Framework Profiler Cards (44)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'UNIX (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'VB.NET (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'Verify - Deductive Reasoning' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'Verify - Following Instructions' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "A"
+    ],
+    "description": "The 'Verify Interactive Process Monitoring' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "P"
+    ],
+    "description": "The 'Virtual Assessment and Development Centers' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Visual Basic for Applications (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Visual Comparison - UK' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-us/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Visual Comparison - US' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'VLSI and Embedded Systems (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/what-is-the-value-us/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'What Is The Value - US' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-administration-skills-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Workplace Administration Skills (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-health-and-safety-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Workplace Health and Safety (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'WriteX - Email Writing (Customer Service) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "S"
+    ],
+    "description": "The 'WriteX - Email Writing (Managerial) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "B",
+      "S"
+    ],
+    "description": "The 'WriteX - Email Writing (Sales) (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Written English v1' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-spanish/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "Yes",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Written Spanish' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "K"
+    ],
+    "description": "The 'Zabbix (New)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "D"
+    ],
+    "description": "The '360 Digital Report' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  },
+  {
+    "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "remoteTesting": "Yes",
+    "adaptiveSupport": "No",
+    "testTypes": [
+      "D",
+      "P"
+    ],
+    "description": "The '360\u00b0 Multi-Rater Feedback System (MFS)' assessment evaluates relevant skills and knowledge pertaining to the subject area indicated by its title."
+  }
+]

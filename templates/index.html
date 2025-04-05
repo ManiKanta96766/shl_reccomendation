@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SHL Recommender</title>
+  <style>
+    body { font-family: Arial; padding: 2rem; }
+    input, button { padding: 10px; font-size: 16px; margin-right: 10px; }
+    .card {
+      border: 1px solid #ccc;
+      padding: 1rem;
+      margin-top: 1rem;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>SHL Assessment Recommender</h1>
+  <input type="text" id="query" placeholder="e.g. Software Engineer role" />
+  <button onclick="getRecommendations()">Recommend</button>
+
+  <div id="results"></div>
+
+  <script>
+    async function getRecommendations() {
+      const query = document.getElementById("query").value;
+      const res = await fetch("/recommend", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ query })
+      });
+      const data = await res.json();
+      console.log(data)
+      const resultsDiv = document.getElementById("results");
+      resultsDiv.innerHTML = "";
+
+      data.forEach(item => {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = `
+          <h3>${item.name}</h3>
+          <p><a href="${item.url}" target="_blank">View Test</a></p>
+          <p><strong>Remote:</strong> ${item.remoteTesting ?? "N/A"}, 
+             <strong>Adaptive:</strong> ${item.adaptiveSupport ?? "N/A"}</p>
+        `;
+        resultsDiv.appendChild(card);
+      });
+    }
+  </script>
+</body>
+</html>
