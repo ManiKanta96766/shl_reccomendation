@@ -9,7 +9,7 @@ app = Flask(__name__)
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load SHL assessment catalog
-with open("templates/product_catalog.json", "r", encoding="utf-8") as f:
+with open("individual_test_solutions_2.json", "r", encoding="utf-8") as f:
     product_catalog = json.load(f)
 
 # Load precomputed embeddings
