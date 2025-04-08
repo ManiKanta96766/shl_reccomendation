@@ -2,36 +2,62 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>SHL Recommender</title>
+  <title>SHL Assessment Recommender</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       padding: 2rem;
-      background-color: #f9f9f9;
+      background-color: #fafafa;
     }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
     input, button {
       padding: 10px;
       font-size: 16px;
       margin-right: 10px;
-      width: 300px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
     }
+
     button {
-      cursor: pointer;
       background-color: #007bff;
       color: white;
+      cursor: pointer;
       border: none;
-      border-radius: 5px;
     }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
     .card {
-      background: white;
-      border: 1px solid #ccc;
+      background-color: white;
+      border: 1px solid #ddd;
       padding: 1rem;
       margin-top: 1rem;
       border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
     }
+
     .card h3 {
-      margin-top: 0;
+      margin: 0 0 0.5rem 0;
+    }
+
+    .card p {
+      margin: 0.3rem 0;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -45,34 +71,40 @@
   <script>
     async function getRecommendations() {
       const query = document.getElementById("query").value;
-      const res = await fetch("/recommend", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ query })
-      });
-
-      const data = await res.json();
       const resultsDiv = document.getElementById("results");
-      resultsDiv.innerHTML = "";
+      resultsDiv.innerHTML = ""; // Clear old results
 
-      if (!data.recommended_assessments || data.recommended_assessments.length === 0) {
-        resultsDiv.innerHTML = "<p>No recommendations found.</p>";
-        return;
+      try {
+        const res = await fetch("/recommend", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ query })
+        });
+
+        const data = await res.json();
+        const recommendations = data.recommended_assessments;
+
+        if (!Array.isArray(recommendations) || recommendations.length === 0) {
+          resultsDiv.innerHTML = "<p>No recommendations found.</p>";
+          return;
+        }
+
+        recommendations.forEach(item => {
+          const card = document.createElement("div");
+          card.className = "card";
+          card.innerHTML = `
+            <h3>${item.name ?? "Unnamed Assessment"}</h3>
+            <p><a href="${item.url}" target="_blank"><strong>View Assessment</strong></a></p>
+            <p><strong>Remote:</strong> ${item.remote_support ?? "N/A"}</p>
+            <p><strong>Adaptive:</strong> ${item.adaptive_support ?? "N/A"}</p>
+            <p><strong>Test Type:</strong> ${item.test_type.join(", ")}</p>
+          `;
+          resultsDiv.appendChild(card);
+        });
+      } catch (err) {
+        console.error("Error fetching recommendations:", err);
+        resultsDiv.innerHTML = "<p>Something went wrong while fetching recommendations.</p>";
       }
-
-      data.recommended_assessments.forEach(item => {
-        const card = document.createElement("div");
-        card.className = "card";
-        card.innerHTML = `
-          <h3><a href="${item.url}" target="_blank">${item.url}</a></h3>
-          <p><strong>Description:</strong> ${item.description}</p>
-          <p><strong>Remote Testing:</strong> ${item.remote_support}</p>
-          <p><strong>Adaptive Support:</strong> ${item.adaptive_support}</p>
-          <p><strong>Duration:</strong> ${item.duration} minutes</p>
-          <p><strong>Test Types:</strong> ${item.test_type.join(", ")}</p>
-        `;
-        resultsDiv.appendChild(card);
-      });
     }
   </script>
 </body>
