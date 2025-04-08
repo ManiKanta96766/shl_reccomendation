@@ -4,13 +4,34 @@
   <meta charset="UTF-8" />
   <title>SHL Recommender</title>
   <style>
-    body { font-family: Arial; padding: 2rem; }
-    input, button { padding: 10px; font-size: 16px; margin-right: 10px; }
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f9f9f9;
+    }
+    input, button {
+      padding: 10px;
+      font-size: 16px;
+      margin-right: 10px;
+      width: 300px;
+    }
+    button {
+      cursor: pointer;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
     .card {
+      background: white;
       border: 1px solid #ccc;
       padding: 1rem;
       margin-top: 1rem;
       border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .card h3 {
+      margin-top: 0;
     }
   </style>
 </head>
@@ -29,19 +50,26 @@
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query })
       });
+
       const data = await res.json();
-      console.log(data)
       const resultsDiv = document.getElementById("results");
       resultsDiv.innerHTML = "";
 
-      data.forEach(item => {
+      if (!data.recommended_assessments || data.recommended_assessments.length === 0) {
+        resultsDiv.innerHTML = "<p>No recommendations found.</p>";
+        return;
+      }
+
+      data.recommended_assessments.forEach(item => {
         const card = document.createElement("div");
         card.className = "card";
         card.innerHTML = `
-          <h3>${item.name}</h3>
-          <p><a href="${item.url}" target="_blank">View Test</a></p>
-          <p><strong>Remote:</strong> ${item.remoteTesting ?? "N/A"}, 
-             <strong>Adaptive:</strong> ${item.adaptiveSupport ?? "N/A"}</p>
+          <h3><a href="${item.url}" target="_blank">${item.url}</a></h3>
+          <p><strong>Description:</strong> ${item.description}</p>
+          <p><strong>Remote Testing:</strong> ${item.remote_support}</p>
+          <p><strong>Adaptive Support:</strong> ${item.adaptive_support}</p>
+          <p><strong>Duration:</strong> ${item.duration} minutes</p>
+          <p><strong>Test Types:</strong> ${item.test_type.join(", ")}</p>
         `;
         resultsDiv.appendChild(card);
       });
