@@ -42,6 +42,7 @@ def recommend():
         item = next((i for i in product_catalog if i["name"] == catalog_ids[idx]), None)
         if item:
             recommendations.append({
+                "name":item.get("name"),
                 "url": item.get("url"),
                 "adaptive_support": item.get("adaptiveSupport", "No"),
                 "description": item.get("description", "No description available"),
